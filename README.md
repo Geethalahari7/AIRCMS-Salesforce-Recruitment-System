@@ -64,7 +64,7 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System that a
 
 ## Lightning App
 
-![Lightning App](Screenshots/01_lightning_app.png)
+![Lightning App](screenshots/01_lightning_app.png)
 
 ## Candidate
 
