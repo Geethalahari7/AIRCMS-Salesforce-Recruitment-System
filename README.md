@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System designed to streamline the complete hiring process. It automates candidate screening, interview management, offer tracking, and recruitment analytics using Salesforce Flows, Reports, and Dashboards.
+AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System that automates candidate management, job openings, applications, interviews, offers, reports, and dashboards.
 
 ---
 
@@ -11,9 +11,9 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System design
 - Candidate Management
 - Job Opening Management
 - Application Tracking
-- Interview Scheduling
+- Interview Management
 - Offer Management
-- Automated Recruitment Workflow
+- Salesforce Flows Automation
 - Reports & Dashboards
 - AI Candidate Score
 - Hiring Recommendation
@@ -22,12 +22,10 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System design
 
 ## 🛠️ Technologies Used
 
-- Salesforce Lightning Platform
+- Salesforce Lightning
 - Salesforce DX
 - Flow Builder
-- Custom Objects
-- Reports
-- Dashboards
+- Reports & Dashboards
 - Git
 - GitHub
 
@@ -43,7 +41,7 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System design
 
 ---
 
-## ⚡ Automation
+## ⚡ Flows
 
 - Application Auto Screening Flow
 - Interview to Offer Flow
@@ -51,87 +49,89 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System design
 
 ---
 
-## 📊 Reports
+## 📊 Reports & Dashboard
 
 - Candidate Report
-- Job Opening Report
 - Application Report
 - Interview Report
+- Job Opening Report
 - Offer Report
+- AIRCMS Dashboard
 
 ---
 
-## 📈 Dashboard
+# 📸 Project Screenshots
 
-AIRCMS Dashboard provides recruitment analytics and hiring insights.
-
----
-
-## 📸 Project Screenshots
-
-### Lightning App
+## Lightning App
 
 ![Lightning App](Screenshots/01_lightning_app.png)
 
-### Candidate
+## Candidate
 
-![Candidate](Screenshots/02_candidate_record.png)
+![Candidate](Screenshots/02_Candidate_rec.png)
 
-![Candidate Details](Screenshots/03_candidate_details.png)
+![Candidate Record](Screenshots/03_candidate_record.png)
 
-### Job Opening
+![Candidate AI](Screenshots/04_candidate_ai_fields.png)
 
-![Job Opening](Screenshots/04_job_opening_record.png)
+## Application
 
-![Job Opening Details](Screenshots/05_job_opening_details.png)
+![Application](Screenshots/05_application_record.png)
 
-### Application
+![Application Details](Screenshots/06_application_details.png)
 
-![Application](Screenshots/06_application_record.png)
+![New Application](Screenshots/07_new_application.png)
 
-![Application Details](Screenshots/07_application_details.png)
+## Job Opening
 
-### Interview
+![Job Openings](Screenshots/08_job_openings.png)
 
-![Interview](Screenshots/08_interview_record.png)
+![Job Opening Record](Screenshots/09_job_opening_record.png)
 
-![Interview Details](Screenshots/09_interview_details.png)
+![Job Opening Details](Screenshots/10_job_opening_details.png)
 
-### Offer
+## Interview
 
-![Offer](Screenshots/10_offer_record.png)
+![Interview](Screenshots/11_interview_record.png)
 
-![Offer Details](Screenshots/11_offer_details.png)
+![Interview Details](Screenshots/12_interview_details.png)
 
-### Application Auto Screening Flow
+## Offer
 
-![Flow](Screenshots/12_application_auto_screening_flow.png)
+![Offer](Screenshots/13_Offer_record.png)
 
-### Interview to Offer Flow
+![Offer Details](Screenshots/14_offer_details.png)
 
-![Flow](Screenshots/13_interview_to_offer_flow.png)
-
-### Offer Flow
-
-![Flow](Screenshots/14_offer_flow.png)
-
-### Reports
+## Reports
 
 ![Reports](Screenshots/15_reports.png)
 
-### Dashboard
+## Dashboard
 
-![Dashboard](Screenshots/16_dashboard.png)
+![Dashboard](Screenshots/16_dashboard_record.png)
+
+![Dashboard](Screenshots/17_dashboard_1.png)
+
+![Dashboard](Screenshots/18_dashboard_2.png)
+
+## Flows
+
+### Interview to Offer Flow
+
+![Interview Flow](Screenshots/19_interview_to_offer_flow.png)
+
+### Offer Flow
+
+![Offer Flow](Screenshots/20_offer_flow.png)
+
+### Application Auto Screening Flow
+
+![Application Flow](Screenshots/21_application_autoscreening_flow.png)
 
 ---
 
-## 🚀 Author
+## 👩‍💻 Author
 
 **Geetha Lahari**
 
-Salesforce Developer | Computer Science Student
-
 GitHub: https://github.com/Geethalahari7
-
-## Dashboard
-AIRCMS Dashboard for Recruitment Analytics.
