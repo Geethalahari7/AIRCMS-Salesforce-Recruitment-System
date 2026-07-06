@@ -68,65 +68,65 @@ AIRCMS is a Salesforce-based AI Recruitment & Candidate Management System that a
 
 ## Candidate
 
-![Candidate](Screenshots/02_Candidate_rec.png)
+![Candidate](screenshots/02_Candidate_rec.png)
 
-![Candidate Record](Screenshots/03_candidate_record.png)
+![Candidate Record](screenshots/03_candidate_record.png)
 
-![Candidate AI](Screenshots/04_candidate_ai_fields.png)
+![Candidate AI](screenshots/04_candidate_ai_fields.png)
 
 ## Application
 
-![Application](Screenshots/05_application_record.png)
+![Application](screenshots/05_application_record.png)
 
-![Application Details](Screenshots/06_application_details.png)
+![Application Details](screenshots/06_application_details.png)
 
-![New Application](Screenshots/07_new_application.png)
+![New Application](screenshots/07_new_application.png)
 
 ## Job Opening
 
-![Job Openings](Screenshots/08_job_openings.png)
+![Job Openings](screenshots/08_job_openings.png)
 
-![Job Opening Record](Screenshots/09_job_opening_record.png)
+![Job Opening Record](screenshots/09_job_opening_record.png)
 
-![Job Opening Details](Screenshots/10_job_opening_details.png)
+![Job Opening Details](screenshots/10_job_opening_details.png)
 
 ## Interview
 
-![Interview](Screenshots/11_interview_record.png)
+![Interview](screenshots/11_interview_record.png)
 
-![Interview Details](Screenshots/12_interview_details.png)
+![Interview Details](screenshots/12_interview_details.png)
 
 ## Offer
 
-![Offer](Screenshots/13_Offer_record.png)
+![Offer](screenshots/13_Offer_record.png)
 
-![Offer Details](Screenshots/14_offer_details.png)
+![Offer Details](screenshots/14_offer_details.png)
 
 ## Reports
 
-![Reports](Screenshots/15_reports.png)
+![Reports](screenshots/15_reports.png)
 
 ## Dashboard
 
-![Dashboard](Screenshots/16_dashboard_record.png)
+![Dashboard](screenshots/16_dashboard_record.png)
 
-![Dashboard](Screenshots/17_dashboard_1.png)
+![Dashboard](screenshots/17_dashboard_1.png)
 
-![Dashboard](Screenshots/18_dashboard_2.png)
+![Dashboard](screenshots/18_dashboard_2.png)
 
 ## Flows
 
 ### Interview to Offer Flow
 
-![Interview Flow](Screenshots/19_interview_to_offer_flow.png)
+![Interview Flow](screenshots/19_interview_to_offer_flow.png)
 
 ### Offer Flow
 
-![Offer Flow](Screenshots/20_offer_flow.png)
+![Offer Flow](screenshots/20_offer_flow.png)
 
 ### Application Auto Screening Flow
 
-![Application Flow](Screenshots/21_application_autoscreening_flow.png)
+![Application Flow](screenshots/21_application_autoscreening_flow.png)
 
 ---
 
